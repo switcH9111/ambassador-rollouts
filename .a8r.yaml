@@ -3,3 +3,7 @@ k8s_config:
   cluster_info:
     cluster_id: c996f5a0-8237-5990-b910-e8fbbba72bbc
     cluster_name: kevin-demo
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: f27d45b7-a1f6-56cc-b0de-c20b6599aa67
+    cluster_name: kevin debug's cluster
